@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z9hf2d5GTo57OPGDFrqwnjLU3AKkNGCMGHLVDJSf4LtkP7xx9uM8D9UGar8gwbUROrqH5ofAVcpZlnGEoGaOUA==",
+  "dgSpecHash": "I/WbyGH7BNb91eT/t8OQbSg5n5u9Kmq4oUosXD6RHFO3hD0lnv2QAqfcQpD6CTKPqctmCFbcpWzrlzdvv7uQ2A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.4\\microsoft.data.sqlite.core.6.0.4.nupkg.sha512",

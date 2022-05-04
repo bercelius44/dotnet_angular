@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet-angular\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Documents\\Proyectos\\dotnet_angular\\DatingApp\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"
