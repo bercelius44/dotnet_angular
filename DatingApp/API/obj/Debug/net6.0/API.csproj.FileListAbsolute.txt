@@ -106,3 +106,10 @@ C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\obj\Debug\net6
 C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\obj\Debug\net6.0\API.pdb
 C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\obj\Debug\net6.0\API.genruntimeconfig.cache
 C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Proyectos\dotnet_angular\DatingApp\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
